@@ -3,6 +3,7 @@
 👋 Hi, I’m Shiddeshwaran
 
 💻 Embedded Linux Developer working in IoT systems
+
 ⚙️ Focused on systems programming, IPC, and low-level Linux debugging
 
 🧠 I work close to the system:
@@ -78,9 +79,9 @@
 
 ---
 
-# 🧠 Contribution Activity
+# 📦 Open Source Contributions
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiddeshwaran-Selvarasu\&theme=tokyo-night\&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=Shiddeshwaran-Selvarasu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
