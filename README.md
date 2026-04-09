@@ -15,10 +15,10 @@
 
 🚀 Currently exploring:
 
-* Middleware / IPC architectures (custom brokers, pub-sub systems)
-* Cross-layer system design (C/C++ ↔ Node.js ↔ OS)
+* HAL / Middleware (IPC, pub-sub systems)
+* Cross-layer system design (Node.js ↔ C/C++ ↔ OS)
 * Containerized embedded workflows (Docker)
-* Distributed systems (Kubernetes - learning phase)
+* Soong build system (AOSP - learning phase)
 
 💡 I care about:
 
@@ -57,15 +57,6 @@
 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic\&logo=gnu-bash\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic\&logo=Raspberry-Pi)
-
----
-
-# 🚧 Current Focus
-
-* Building a custom IPC controller / message broker
-* Exploring reliability patterns (ACKs, retries, backpressure)
-* Benchmarking against systems like NNG / ZeroMQ
-* Bridging C/C++ services with Node.js
 
 ---
 
